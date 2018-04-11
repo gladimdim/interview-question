@@ -1,0 +1,25 @@
+{
+  "name": "interview-question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gladimdim/interview-question.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Dmytro Gladkyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gladimdim/interview-question/issues"
+  },
+  "homepage": "https://github.com/gladimdim/interview-question#readme",
+  "dependencies": {
+    "serve": "^6.5.4"
+  }
+}
