@@ -1,0 +1,5 @@
+{
+    "caption": "This is the first step",
+    "next": "second_step.json",
+    "defaultValue": "Value 1"
+}

@@ -1,0 +1,5 @@
+{
+    "caption": "This is the Second step",
+    "next": "third_step.json",
+    "defaultValue": "JavaScript"
+}
