@@ -19,6 +19,10 @@ Following UI elements must be present on last step:
 
 Once Finish button is clicked, the application should send a POST request to "/post" REST endpoint.
 
+# Server
+package.json contains a npm script "server" which starts 'serve' web server. To run it, you have to install node/npm first, then:
+`npm run server`
+
 # REST Response Types
 There can be only two response types from Backend:
 * 'Step' JSON, it always has "caption", "next" and "defaultValue" properties.
